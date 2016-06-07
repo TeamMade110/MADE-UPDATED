@@ -1,0 +1,1 @@
+<p>&copy; <?php echo date('Y'); ?> MADE - <a href="http://aeroncreative.com">Aeron Creative </a><a href="http://aeroncreative.com/portfolio_web.php">Website Design</a></p>
